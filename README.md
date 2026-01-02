@@ -1,45 +1,69 @@
-<h2 align="left"># 👋 Hi, I'm Sanjay  <br><br>💻 MERN Stack Developer | 🎯 Problem Solver | 🚀 Lifelong Learner  <br><br>---</h2>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=800&color=8B5CF6&center=true&vCenter=true&width=520&lines=Hello+👋;I+am+Sanjay;Full+Stack+Developer;MERN+%7C+Competitive+Programmer" />
+</h1>
 
-###
+---
+
+## 👨‍💻 About Me
+- 🎓 Computer Science Student  
+- 💻 React, MERN, C++, Python  
+- 🚀 Building real-world full-stack projects  
+- 🧠 Interested in system design & AI  
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjaiveeran44&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjaiveeran44&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img 
+    width="49%" 
+    src="https://github-readme-stats.vercel.app/api?username=sanjaiveeran44&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&icon_color=8B5CF6&ring_color=8B5CF6" 
+    alt="GitHub Statistics"
+  />
+  <img 
+    width="49%"
+    src="https://github-readme-streak-stats.herokuapp.com?user=sanjaiveeran44&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF" 
+    alt="GitHub Streak"
+  />
 </div>
 
-###
+<br/>
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif"  />
+<div align="center">
 
-###
+<a href="https://github.com/sanjaiveeran44"> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanjaiveeran44&theme=algolia" width="100%" /> 
+  <br/><br/>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanjaiveeran44&theme=algolia" width="31%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanjaiveeran44&theme=algolia" width="31%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sanjaiveeran44&theme=algolia" width="31%" title="🦉 Productive Hours"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/sanjaiveeran44">
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution Graph"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/sanjaiveeran44">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjaiveeran44&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=8B5CF6&line=41c350&point=FFFFFF"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/sanjaiveeran44">
+  <img src="https://github-profile-trophy.vercel.app/?username=sanjaiveeran44&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6"/>
+</a>
+
 </div>
 
-###
+---
 
-<div align="left">
-  <a href="kit27.am44@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/sanjaiveeran-s-3a76342a0" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+## 🐍 Contribution Snake
 
-###
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sanjaiveeran44/sanjaiveeran44/output/github-contribution-grid-snake-dark.svg" />
+</p>
