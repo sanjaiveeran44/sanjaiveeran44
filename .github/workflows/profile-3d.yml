@@ -1,0 +1,21 @@
+name: GitHub 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        with:
+          username: sanjaiveeran44
+
+      - name: Commit & Push
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Generate 3D contribution graph"
+          add: "profile-3d-contrib"
